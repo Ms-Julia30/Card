@@ -14,7 +14,9 @@ a {
 }
 
 .userCard {
-    width: 300px;
+    max-width: 300px;
+    width: 100%;
+    min-width: 250px;
     margin: 50px auto;
     border-radius: 40px;
     box-shadow: 0px 0px 10px grey;
@@ -23,5 +25,9 @@ a {
 
 .bg {
     background-image: url('https://images.pexels.com/photos/3801458/pexels-photo-3801458.jpeg');
+    height: 150px;
+    color: white;
+    padding: 20px;
+    text-align: right;
 }
 
