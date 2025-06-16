@@ -1,0 +1,27 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.userCard {
+    width: 300px;
+    margin: 50px auto;
+    border-radius: 40px;
+    box-shadow: 0px 0px 10px grey;
+    overflow: hidden;
+}
+
+.bg {
+    background-image: url('https://images.pexels.com/photos/3801458/pexels-photo-3801458.jpeg');
+}
+
